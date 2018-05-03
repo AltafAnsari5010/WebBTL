@@ -1,0 +1,66 @@
+Name
+(Naam):
+(Naav)
+
+Age
+(Umr):
+(varsh)
+
+Marital Status
+(Aapki shaadi ho gay hai?):
+(Tumcha lagn zhale?)
+
+Number of children
+(Aapke kitne bachche hai?):
+(Kiti mule aahe tula?)
+
+Please discuss your everyday schedule
+(Din bhar mein aap kya kya kaam karte ho?):
+(Dor roj tumhi je pan kaam karte te saang?)
+
+Do you get free time at any hour of the day?
+(Aapko din bhar me rikt samay milta hai kabhi?):
+(Thumhala divasbhar kadhihi mokda ved bhetate ka?)
+
+If yes then what do you do in that free time?
+(Agr haa toh aap us samay me kya karti ho?):
+(tumhi tyaat kaay karte?)
+
+If no then have you ever tried to extract some free time from your schedule?
+(Agar naa toh aapne kabi koshish ki hai ke kuch samay khaali nikaal sako din bhar me se?):
+(aapan kahi mukt ved kaadhnyacha prayatn kela aahe ka?)
+
+Have you ever thought about earning some money yourself?
+(Kya aapne kabhi khud apne kaam se kamaane ki sochi hai kabhi?)
+(aapan kadhi svatahne kahi paise kamavnyacha vichaar kele aahe ka?)
+
+If no then why?
+(kyun nahi?)
+(ka?)
+
+If yes then when? and how?
+(agar haa, toh kab socha tha n kaise kamaane k socha tha?)
+(kevha? ani kase?)
+
+What stops you from working outside?
+(aapko bahar kaam karne se kya chiz rok rahi hai?)
+(baaher kaam karnyaas tumhala kaay thambavte?)
+
+Do you have any regrets about not being able to earn for yourself?
+(aapko bahar kaam karne nhi mila is baat ko lekar aapko kisi bhi tarah ka pachhtava hai kya?)
+(baaher kaam karaayla nahi bhetla baddal tumhaala kaahi pashchaataap aahe ka?)
+
+Have you ever thought about collaboratve working?
+(kya apne kabhi apne pati ke saath saath kaam karne ka socha hai?)
+(aapan kadhi aaplya navrya barobar kaamasath jaaycha vichar kela aahe ka?)
+
+What are your views about a man helping in household chores?
+(ek aadmi ghar k kaamo me haath bantaaye. is baare me aapke kya vichaar hai?)
+(purushaanni gharaatle kaamat madat kelyabaddal aaple kaay vichaar aaahe?)
+
+Will you teach your daughter to any take care of the house and leave the earning bit to his future husband?
+(kya aap apni beti ko sirf ghar ka kaam karna hi sikhaaogi aur ye sikhaaogi k bahar kamaane ki zimmedaari uske pati ki hai?)
+
+
+Will you teach your son to help his future wife in hosehold chores?
+(Kya aap kabhi apne bete ko sikhaaoge k use apni patni ko ghar k kaamo mein bhi madad karna chahiye?)
