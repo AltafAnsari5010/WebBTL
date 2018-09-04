@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <JobClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ID>7</ID>
+    <MasterFilePath>C:\TeklaStructures\PES_Connection_Wizard\</MasterFilePath>
+    <ModelName>Rainier Sqaure</ModelName>
+    <ProjectName>Herrick Steel-IMP</ProjectName>
+    <CreatedTime>08-29-2018 12-08-41 PM</CreatedTime>
+    <ProcessTime>08-29-2018 12-08-34 PM</ProcessTime>
+    <TeklaVersion>21.0</TeklaVersion>
+    <IsProcCompleted>true</IsProcCompleted>
+  </JobClass>
+  <JobClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ID>8</ID>
+    <MasterFilePath>C:\TeklaStructures\PES_Connection_Wizard\</MasterFilePath>
+    <ModelName>Rainier Sqaure</ModelName>
+    <ProjectName>Herrick Steel-IMP</ProjectName>
+    <CreatedTime>08-29-2018 13-52-04 PM</CreatedTime>
+    <ProcessTime>08-29-2018 13-53-00 PM</ProcessTime>
+    <TeklaVersion>21.0</TeklaVersion>
+    <IsProcCompleted>true</IsProcCompleted>
+  </JobClass>
+  <JobClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ID>9</ID>
+    <MasterFilePath>C:\TeklaStructures\PES_Connection_Wizard\</MasterFilePath>
+    <ModelName>Rainier Sqaure</ModelName>
+    <ProjectName>Herrick Steel-IMP</ProjectName>
+    <CreatedTime>08-29-2018 14-07-13 PM</CreatedTime>
+    <ProcessTime>08-29-2018 14-09-56 PM</ProcessTime>
+    <TeklaVersion>21.0</TeklaVersion>
+    <IsProcCompleted>true</IsProcCompleted>
+  </JobClass>
+  <JobClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ID>10</ID>
+    <MasterFilePath>C:\TeklaStructures\PES_Connection_Wizard\</MasterFilePath>
+    <ModelName>Rainier Sqaure</ModelName>
+    <ProjectName>Herrick Steel-IMP</ProjectName>
+    <CreatedTime>08-29-2018 15-16-39 PM</CreatedTime>
+    <ProcessTime>08-29-2018 17-16-18 PM</ProcessTime>
+    <TeklaVersion>21.0</TeklaVersion>
+    <IsProcCompleted>true</IsProcCompleted>
+  </JobClass>
+  <JobClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ID>11</ID>
+    <MasterFilePath>C:\TeklaStructures\PES_Connection_Wizard\</MasterFilePath>
+    <ModelName>Rainier Sqaure</ModelName>
+    <ProjectName>Herrick Steel-IMP</ProjectName>
+    <CreatedTime>08-29-2018 16-33-36 PM</CreatedTime>
+    <ProcessTime>08-29-2018 16-33-50 PM</ProcessTime>
+    <TeklaVersion>21.0</TeklaVersion>
+    <IsProcCompleted>true</IsProcCompleted>
+  </JobClass>
+  <JobClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ID>12</ID>
+    <MasterFilePath>C:\TeklaStructures\PES_Connection_Wizard\</MasterFilePath>
+    <ModelName>Rainier Sqaure</ModelName>
+    <ProjectName>Herrick Steel-IMP</ProjectName>
+    <CreatedTime>08-29-2018 16-35-53 PM</CreatedTime>
+    <ProcessTime>08-29-2018 16-36-46 PM</ProcessTime>
+    <TeklaVersion>21.0</TeklaVersion>
+    <IsProcCompleted>true</IsProcCompleted>
+  </JobClass>
+</DocumentElement>
