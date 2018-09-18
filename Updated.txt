@@ -20,3 +20,5 @@ I'll shortly share with you a few sample designs once I get the basic content to
 Looking forward to receiving the required data so as to proceed with the work.
 
 Thanks and regards,
+
+System.Windows.Forms.SendKeys.SendWait("{ESC}");
