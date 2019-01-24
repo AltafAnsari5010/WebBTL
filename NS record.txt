@@ -1,0 +1,19 @@
+We need to add the following DNS changes in your domain. 
+
+1) Add this record in your DNS zone: 
+
+skillzhub.in.
+
+IN TXT
+
+v=spf1 include:spf.mailjet.com ?all
+
+2) Here is your public key and how your DomainKey record should look like:
+
+mailjet._domainkey.skillzhub.in.
+
+IN TXT
+
+k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWGGpxc4gbjsndJcQa/2vjuBoMuo2RMUbXfYmXSFTK0URtCBDHx7GhZebU3viU1JGn94r3BjV7N/eeGOlyVBl8Q5VyDF4/dvvRJWTKCrQFM7CZVsfvihb3e7bh7i5o3nrHAMC3agkVR+Qb8jQg5G/Ka4Ody4qqeNURngXn3xSqcQIDAQAB
+
+Looking forward to hearing from you.
